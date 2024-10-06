@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/explorador_galactico_app/static/css/main.e6c13ad2.css",
+    "main.js": "/explorador_galactico_app/static/js/main.2b8928e0.js",
+    "static/js/453.c8f4c29a.chunk.js": "/explorador_galactico_app/static/js/453.c8f4c29a.chunk.js",
+    "static/media/planet.png": "/explorador_galactico_app/static/media/planet.3699c770023b88bea8ee.png",
+    "static/media/telescopio.png": "/explorador_galactico_app/static/media/telescopio.04fec99e68d5fbcfa890.png",
+    "index.html": "/explorador_galactico_app/index.html",
+    "main.e6c13ad2.css.map": "/explorador_galactico_app/static/css/main.e6c13ad2.css.map",
+    "main.2b8928e0.js.map": "/explorador_galactico_app/static/js/main.2b8928e0.js.map",
+    "453.c8f4c29a.chunk.js.map": "/explorador_galactico_app/static/js/453.c8f4c29a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2b8928e0.js"
+  ]
+}
